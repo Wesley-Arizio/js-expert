@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Wesley",
+    "age": 19,
+    "grades": {
+      "grade1": 8.46,
+      "grade2": 5.48,
+      "grade3": 9.69,
+      "finalGrade": 7.88
+    },
+    "isApproved": true
+  },
+  {
+    "name": "Maria",
+    "age": 19,
+    "grades": {
+      "grade1": 7.12,
+      "grade2": 6.73,
+      "grade3": 1.54,
+      "finalGrade": 5.13
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Eduardo",
+    "age": 19,
+    "grades": {
+      "grade1": 2.3,
+      "grade2": 5.72,
+      "grade3": 6.71,
+      "finalGrade": 4.91
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Marcelo",
+    "age": 14,
+    "grades": {
+      "grade1": 5.36,
+      "grade2": 7.53,
+      "grade3": 4.52,
+      "finalGrade": 5.8
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Junior",
+    "age": 45,
+    "grades": {
+      "grade1": 1.27,
+      "grade2": 2.49,
+      "grade3": 7.11,
+      "finalGrade": 3.62
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Mirela",
+    "age": 22,
+    "grades": {
+      "grade1": 0.67,
+      "grade2": 8.67,
+      "grade3": 8.66,
+      "finalGrade": 6
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Julia",
+    "age": 17,
+    "grades": {
+      "grade1": 9.7,
+      "grade2": 5.42,
+      "grade3": 5.89,
+      "finalGrade": 7
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Icaro",
+    "age": 24,
+    "grades": {
+      "grade1": 2.08,
+      "grade2": 9.56,
+      "grade3": 1.47,
+      "finalGrade": 4.37
+    },
+    "isApproved": false
+  },
+  {
+    "name": "Bruna",
+    "age": 23,
+    "grades": {
+      "grade1": 4.81,
+      "grade2": 6.47,
+      "grade3": 6.06,
+      "finalGrade": 5.78
+    },
+    "isApproved": false
+  }
+]

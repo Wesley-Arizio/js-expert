@@ -1,0 +1,52 @@
+[
+    {
+        "name": "wesley arizio",
+        "age": 19,
+        "qualities": {
+            "funny": true,
+            "smart": true,
+            "curious": false,
+            "idontKnowMoreThanThat": true
+        }
+    },
+    {
+        "name": "allan",
+        "age": 23,
+        "qualities": {
+            "funny": false,
+            "smart": false,
+            "curious": false,
+            "idontKnowMoreThanThat": false
+        }
+    },
+    {
+        "name": "Icaro",
+        "age": 24,
+        "qualities": {
+            "funny": false,
+            "smart": false,
+            "curious": false,
+            "idontKnowMoreThanThat": false
+        }
+    },
+    {
+        "name": "bruno",
+        "age": 19,
+        "qualities": {
+            "funny": true,
+            "smart": true,
+            "curious": false,
+            "idontKnowMoreThanThat": true
+        }
+    },
+    {
+        "name": "alex",
+        "age": 19,
+        "qualities": {
+            "funny": false,
+            "smart": false,
+            "curious": false,
+            "idontKnowMoreThanThat": false
+        }
+    }
+]

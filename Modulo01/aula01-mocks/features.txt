@@ -1,0 +1,3 @@
+Deve ter um id e nome
+Não pode ser vazio
+Não pode ter mais de 4 usuários incluindo o header 

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Wesley",
+        "age": 19,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Maria",
+        "age": 19,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Eduardo",
+        "age": 19,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Marcelo",
+        "age": 14,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Junior",
+        "age": 45,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Mirela",
+        "age": 22,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Julia",
+        "age": 17,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Icaro",
+        "age": 24,
+        "grades": {
+
+        },
+        "isApproved": false
+    },
+    {
+        "name": "Bruna",
+        "age": 23,
+        "grades": {
+
+        },
+        "isApproved": false
+    }
+]

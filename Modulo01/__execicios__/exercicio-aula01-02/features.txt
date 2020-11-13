@@ -1,0 +1,4 @@
+filtrar por usuário por nome,
+filtrar usuario por idade,
+filtrar usuario por qualidade
+retornar vazio quando nao achar nada

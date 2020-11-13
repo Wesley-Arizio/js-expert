@@ -1,0 +1,15 @@
+{
+  "name": "exercicios-aula03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grades.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^9.2.1"
+  }
+}

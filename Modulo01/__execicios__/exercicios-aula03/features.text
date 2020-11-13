@@ -1,0 +1,20 @@
+pegar os alunos no banco (V)
+
+usar a classe grades para gerar numeros aleatorios entre 0 e 10 (V)
+
+Classe de student, para cada um, chamar a função acima e escrever dnv no json do arquivo (V)
+
+antes de escrever calcular o media final (soma das 3 notas dividido por 3) e setar isApproved se for maior que 7.5 (V)
+
+
+////// ------- TESTS ------- //////
+
+
+Testar função pegar todos o alunos. (V)
+
+Testar função que gera as notas. (V)
+
+Testar função que calcula a media (V)
+
+Testar função que retornar as 3 grades do aluno. (V)
+
