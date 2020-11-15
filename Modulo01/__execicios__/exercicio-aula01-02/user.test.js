@@ -14,7 +14,6 @@ const users_list = require('./mocks/persons.json');
     stub.resolves(users_list)
 
     {
-        // showd return specific user
         const expected = {
             "name": "wesley arizio",
             "age": 19,
@@ -30,7 +29,6 @@ const users_list = require('./mocks/persons.json');
         deepStrictEqual(response, expected);
     }
     {
-        // showd return users with age === 19
         const expected = [
             {
                 "name": "wesley arizio",
