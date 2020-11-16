@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "mocha": "8",
+    "nyc": "15",
+    "supertest": "6"
+  },
+  "scripts": {
+    "test": "npx mocha -w --parallel *.test.js",
+    "test:coverage": "npx nyc npx mocha --parallel *.test.js"
+  }
+}

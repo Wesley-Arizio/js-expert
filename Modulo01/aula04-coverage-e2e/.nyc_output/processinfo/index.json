@@ -1,0 +1,1 @@
+{"processes":{"929c0cc0-64b9-48c0-9c6f-ef59153ec421":{"parent":null,"children":["96edf87a-3835-44cd-8408-ad163ed5b1dd"]},"96edf87a-3835-44cd-8408-ad163ed5b1dd":{"parent":"929c0cc0-64b9-48c0-9c6f-ef59153ec421","children":[]}},"files":{"/Users/wesleyarizio/Documents/GitHub/js-expert/Modulo01/aula04-coverage-e2e/api.js":["96edf87a-3835-44cd-8408-ad163ed5b1dd"]},"externalIds":{}}
