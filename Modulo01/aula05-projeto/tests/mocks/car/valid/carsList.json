@@ -1,0 +1,65 @@
+[
+    {
+        "id": "7b52045c-0fa2-45fe-87f4-cd420c08b1c9",
+        "name": "Ranchero",
+        "releaseYear": 2019,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "06d5d4b8-9cbc-45cb-b2e8-e9b8db26af10",
+        "name": "A4",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "be9e2dc1-18cc-4bb8-b01a-a550a3a357ef",
+        "name": "Impala",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "886fae11-df60-4121-afcf-163f64106c62",
+        "name": "Wrangler",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "d75cebb3-ec77-4415-a425-de0454bd8af5",
+        "name": "Volt",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "9110e29e-109c-4c6c-82ee-685cce2e37d8",
+        "name": "El Camino",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "dbe1e315-3a12-4053-a0cd-c1d7a4a11800",
+        "name": "Focus",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "ea1cc75f-ee3d-462a-9b9d-12e15edae5d2",
+        "name": "Grand Cherokee",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "4d362154-48ae-46ef-b2af-42660f1cfa09",
+        "name": "Impala",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    }
+]

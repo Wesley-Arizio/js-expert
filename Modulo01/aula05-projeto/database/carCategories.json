@@ -1,0 +1,76 @@
+[
+    {
+        "id": "4d6c91c0-c937-4488-a934-c483df7b8f6c",
+        "name": "Coupe",
+        "carIds": [
+            "7b52045c-0fa2-45fe-87f4-cd420c08b1c9"
+        ],
+        "price": 517.1
+    },
+    {
+        "id": "72ea5484-073a-42f5-927d-698f97923914",
+        "name": "Hatchback",
+        "carIds": [
+            "06d5d4b8-9cbc-45cb-b2e8-e9b8db26af10"
+        ],
+        "price": 564.06
+    },
+    {
+        "id": "31de2476-999a-4161-8182-891b315d16dd",
+        "name": "Sedan",
+        "carIds": [
+            "be9e2dc1-18cc-4bb8-b01a-a550a3a357ef"
+        ],
+        "price": 906.75
+    },
+    {
+        "id": "1a450146-a777-47cf-9e32-fd3b51c96c5e",
+        "name": "Convertible",
+        "carIds": [
+            "886fae11-df60-4121-afcf-163f64106c62"
+        ],
+        "price": 33.65
+    },
+    {
+        "id": "7bab3f2e-8008-4b15-b489-c9093f30fe44",
+        "name": "Wagon",
+        "carIds": [
+            "d75cebb3-ec77-4415-a425-de0454bd8af5"
+        ],
+        "price": 530.54
+    },
+    {
+        "id": "def8b247-2d18-40cd-9822-401e8523c375",
+        "name": "Convertible",
+        "carIds": [
+            "9110e29e-109c-4c6c-82ee-685cce2e37d8"
+        ],
+        "price": 102.42
+    },
+    {
+        "id": "808992a7-6e2b-41ba-9564-b03ad612b1f5",
+        "name": "Cargo Van",
+        "carIds": [
+            "dbe1e315-3a12-4053-a0cd-c1d7a4a11800"
+        ],
+        "price": 584.91
+    },
+    {
+        "id": "633f176d-5ca8-4857-96b4-78dd76bb152b",
+        "name": "Cargo Van",
+        "carIds": [
+            "ea1cc75f-ee3d-462a-9b9d-12e15edae5d2"
+        ],
+        "price": 982.29
+    },
+    {
+        "id": "84bdc245-aa0f-4e17-9c85-789ee3f3c085",
+        "name": "Extended Cab Pickup",
+        "carIds": [
+            "4d362154-48ae-46ef-b2af-42660f1cfa09",
+            "ea1cc75f-ee3d-462a-9b9d-12e15edae5d2",
+            "dbe1e315-3a12-4053-a0cd-c1d7a4a11800"
+        ],
+        "price": 649.9
+    }
+]

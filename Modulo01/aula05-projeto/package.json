@@ -1,0 +1,24 @@
+{
+  "name": "aula05-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "seed": "node ./seed/index.js",
+    "test": "npx mocha -w --parallel **/**/*.test.js",
+    "test:coverage": "npx nyc npx mocha --parallel **/**/*.test.js",
+    "start": "nodemon web/server.js"
+  },
+  "devDependencies": {
+    "chai": "4",
+    "faker": "^5.1.0",
+    "mocha": "8",
+    "nodemon": "^2.0.6",
+    "nyc": "15",
+    "sinon": "9",
+    "supertest": "^6.0.1"
+  },
+  "dependencies": {
+    "joi": "^17.3.0"
+  }
+}

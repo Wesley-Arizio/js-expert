@@ -1,0 +1,28 @@
+{
+    "id": "84bdc245-aa0f-4e17-9c85-789ee3f3c085",
+    "name": "Extended Cab Pickup",
+    "price": 649.9,
+    "cars": [
+        {
+            "id": "4d362154-48ae-46ef-b2af-42660f1cfa09",
+            "name": "Impala",
+            "releaseYear": 2020,
+            "available": true,
+            "gasAvailable": true
+          },
+          {
+            "id": "ea1cc75f-ee3d-462a-9b9d-12e15edae5d2",
+            "name": "Grand Cherokee",
+            "releaseYear": 2020,
+            "available": true,
+            "gasAvailable": true
+          },
+          {
+            "id": "dbe1e315-3a12-4053-a0cd-c1d7a4a11800",
+            "name": "Focus",
+            "releaseYear": 2020,
+            "available": true,
+            "gasAvailable": true
+          }
+    ]
+}
